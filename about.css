@@ -1,0 +1,119 @@
+section {
+    font: 1.2rem;
+    padding: 30px 50px;
+}
+
+.onion-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-one {
+    padding-top: 30px;
+}
+
+.text-one h1,
+.text-one p {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.pepper-row {
+    padding: 5px 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-two {
+    margin-top: -50px;
+    padding: 25px 110px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    padding: 100px auto;
+    background-color: red;
+    color: white;
+}
+
+.section-two {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    gap: 2.5rem;
+}
+
+.text-area p {
+    line-height: 1.5rem;
+    padding-top: 30px;
+}
+
+.section-three {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.circle-container {
+    border-radius: 30px;
+    padding: 40px;
+    background-color: #faefef;
+    max-width: 50%;
+}
+
+.circle-container h3 {
+    padding-bottom: 10px;
+}
+
+.circle-container p {
+    line-height: 30px;
+}
+
+.fa-circle-stop {
+    padding-bottom: 15px;
+    font-size: 80px;
+    color: #eb2625;
+}
+
+.eye-container {
+    height: 300px;
+    border-radius: 30px;
+    padding: 40px;
+    background-color: #faefef;
+    max-width: 50%;
+}
+
+.eye-container h3 {
+    padding-bottom: 10px;
+}
+
+.eye-container p {
+    line-height: 30px;
+}
+
+.fa-eye {
+    padding-bottom: 15px;
+    font-size: 80px;
+    color: #eb2625;
+}
+
+.section-four {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.four-parent {
+    margin-bottom: 40px;
+    width: 600px;
+    text-align: center;
+}
+
+.four-parent h2 {
+    margin-bottom: 20px;
+}
+
+.section-four img {
+    margin-bottom: 50px;
+}
